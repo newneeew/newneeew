@@ -23,5 +23,36 @@ Here are some ideas to get you started:
 </p> 
 
 <!--START_SECTION:waka-->
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    0 commits      [-------------------------]   0.0% 
+🌆 Daytime    1 commits      [█------------------------]   7.14% 
+🌃 Evening    13 commits     [███████████████████████--]   92.86% 
+🌙 Night      0 commits      [-------------------------]   0.0%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       1 commits      [█------------------------]   7.14% 
+Tuesday      1 commits      [█------------------------]   7.14% 
+Wednesday    2 commits      [███----------------------]   14.29% 
+Thursday     6 commits      [██████████---------------]   42.86% 
+Friday       1 commits      [█------------------------]   7.14% 
+Saturday     1 commits      [█------------------------]   7.14% 
+Sunday       2 commits      [███----------------------]   14.29%
+
+```
+
+
+**💻 I Mostly Code in Jupyter Notebook** 
+
+```text
+Jupyter Notebook         1 repo              [█████████████████████████]   100.0%
+
+```
+
+
 
 <!--END_SECTION:waka-->

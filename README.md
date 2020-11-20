@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align = "center">  
+   <a href="https://github.com/minji-o-j" class="rich-diff-level-one">
+    <img src="https://github-readme-stats.vercel.app/api?username=newneeew&hide=stars&hide_title=false&theme=dracula&show_icons=true&count_private=true&include_all_commits=false">
+    <![My Stats](https://github-readme-stats.vercel.app/api?username=newneeew&hide=stars&hide_title=false&theme=dracula&show_icons=true&count_private=true&include_all_commits=false)>
+  </a> 
+</p> 
